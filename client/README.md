@@ -14,22 +14,4 @@ This is the frontend for the Insurance Comparison project. It provides a user in
 - Filter tariffs by **Insurance Company (Gesellschaft)**.
 - Automatic refresh every 5 seconds to simulate real-time data fetching.
 
-## Prerequisites
 
-- **Node.js** (v10.9.0 or higher recommended)
-- **npm** (v6 or higher)
-
-## Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone <repository-url>
-
-cd insurance-comparison/client
-
-npm install
-
-npm start
-```
-````
