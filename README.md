@@ -20,8 +20,4 @@
    - Server runs on `http://localhost:3000`.
    - Client runs on `http://localhost:3001` and proxies API requests to the server.
 
----
 
-### Let me know if you need additional sections, such as deployment instructions, or further clarification!
-# insurance-comparison-task
-# insurance-comparison
