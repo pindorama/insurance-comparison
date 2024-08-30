@@ -1,0 +1,14 @@
+{
+  "name": "interview-frontend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "Proprietary",
+  "private": true,
+  "engines": {
+    "node": "~10.9.0"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.3"
+  }
+}
